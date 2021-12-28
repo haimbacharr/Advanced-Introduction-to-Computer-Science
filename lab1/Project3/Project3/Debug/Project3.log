@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\danor\desktop\לימודים - דנאור\מת'מ\project3\project3\source.c(17): warning C4013: 'getch' undefined; assuming extern returning int
+c:\users\danor\desktop\לימודים - דנאור\מת'מ\project3\project3\source.c(22): warning C4101: 'j': unreferenced local variable
+  Project3.vcxproj -> C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\Project3\Debug\Project3.exe
