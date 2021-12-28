@@ -1,4 +1,0 @@
-ID:10002345
-Full name:Michal Ben-Dori
-Age:20
-Address:4,Havradim,Haifa
