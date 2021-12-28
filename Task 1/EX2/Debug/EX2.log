@@ -1,0 +1,20 @@
+﻿  EX2.c
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(23,23): warning C4047: 'function': 'deparment **' differs in levels of indirection from 'deparment (*)[3]'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(23,23): warning C4024: 'input_department': different types for formal and actual parameter 1
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(28,24): warning C4047: 'function': 'deparment ***' differs in levels of indirection from 'deparment *[3]'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(28,24): warning C4024: 'best_dep': different types for formal and actual parameter 2
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(38,1): warning C4028: formal parameter 1 different from declaration
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(44,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(46,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(56,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(58,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(64,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(71,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\EX2.c(77,1): warning C4028: formal parameter 2 different from declaration
+  EX2.vcxproj -> C:\Users\danor\Desktop\לימודים - דנאור\מת'מ\תרגיל בית 1\EX2\Debug\EX2.exe
